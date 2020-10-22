@@ -1,5 +1,7 @@
 import UIKit
 
+print("Hello, world.")
+
 protocol Identifiable {
     var id: String { get set }
 }
